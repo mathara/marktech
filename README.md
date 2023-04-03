@@ -1,4 +1,4 @@
-# marktech
+# Marktech - Atendimento ao cliente
 Case buscando explorar as habilidades de análise de dados focado na dinâmica de uma central de atendimento.
 
 ## Contexto
