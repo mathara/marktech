@@ -26,5 +26,7 @@ nossa equipe de atendimento ao cliente com base nos conjuntos de dados fornecido
 
 Os dados recebidos para esse estudo e as intruções se encontram na pasta [in](/in/), caso você tennha interesse em realizar esse estudo.
 
+### PowerBI
+
 
 ## Resultados
