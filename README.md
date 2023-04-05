@@ -24,9 +24,12 @@ nossa equipe de atendimento ao cliente com base nos conjuntos de dados fornecido
 
 ## Dados Analisados
 
-Os dados recebidos para esse estudo e as intruções se encontram na pasta [in](/in/), caso você tennha interesse em realizar esse estudo.
+Os dados recebidos para esse estudo e as intruções se encontram na pasta [in](/in/), caso você tennha interesse em realizar esse estudo. Os arquivos com os meus resultados se encontram na pasta raiz, para a consulta.
 
 ### PowerBI
-
+![ETL](bau/Operacao_ajuste.PNG)
+Na base de dados sobre os chamados do canal escrito (databse_writting), realizamos operações de substituições e ajustes no campo tags, buscando extrair o máximo de informação do tagueamento do chamado. O Powerbi não foi tulizado para geração de dashboards, alguns visuais foram utilziados de forma exploratória.
 
 ## Resultados
+
+Material de consulta [Apresentação Executiva Final](out/Case_6doors.pdf)
