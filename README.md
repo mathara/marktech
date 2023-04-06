@@ -32,4 +32,13 @@ Na base de dados sobre os chamados do canal escrito (databse_writting), realizam
 
 ## Resultados
 
-Material de consulta [Apresentação Executiva Final](out/Case_6doors.pdf)
+![Painel de Campanha](bau/6Door_CE_video.gif)
+
+- Suporte escrito: precisamos entender melhor as solicitações via api e
+traçarmos planos de melhoria ao suporte via email
+- Suporte chamada: precisamos focar na possiblidade de ajuste de 37% das
+chamadas realizadas e aprofundamento no tempo médio de chamada
+- Em média, o canal de voz tem 4x mais demanda que o escrito. Podemos
+analisar se o time atual atende a quantidade de demanda por canal
+
+Material de consulta [Apresentação Executiva Final](out/Case_6doors.pdf).
